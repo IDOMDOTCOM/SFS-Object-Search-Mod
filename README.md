@@ -1,2 +1,2 @@
-# SFS-Mod
-Search Mod I'm working on
+# SFS-Object-Search-Mod
+Search and Focus on Objects
