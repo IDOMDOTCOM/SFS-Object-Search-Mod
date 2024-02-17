@@ -1,2 +1,2 @@
-# SFS-Object-Search-Mod
+# SFS Object Search Mod
 Search and Focus on Objects
